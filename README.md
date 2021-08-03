@@ -1,29 +1,14 @@
-<h1 align="center">Hi
-👋, sou Sue</h1> <h3 align="center">A mais nova Desenvolvedora Junior no mercado, codando suas experiências.</h3>
+<h1 align="center">Olá! Eu sou a Suellen 😊</h1> 
+<h3 align="center">A mais nova Desenvolvedora Java Junior no mercado, codando suas próprias experiências.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sucastro&label=Profile%20views&color=0e75b6&style=flat" alt="sucastro"
+<h5 align="center">Sobre mim...</h5> 
+<h6 align="center"><img src="https://media.giphy.com/media/XGbU8CyGpRdgh5wY4f/giphy.gif" width=248px height=140px></h6> 
+Mais conhecida como Su, sou a típica tagarela da turma que distribui sorrisos por onde passa, esbanjando muita fé e gratidão como seus princípios. Possuo uma jornada só de 22 anos de idade e tenho vivido como estrangeira nessa vida pois amo aprender coisas novas e sair da rotina. E como não sair da rotina se tratando de desenvolver sistemas? Com isso, aqui estou eu! Apresento-lhes meu GitHub, com todo o registro dos meus projetos, atividades, erros e acertos, mas, principalmente meus aprendizados no decorrer do bootcamp da linguagem Java.💖
 
-/> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sucastro " alt="sucastro"
+<h5 align="center">Atualmente...</h5> 
+- 🌱 Estou aprendendo sobre **SpringBoot** - 👯 Estou colaborando no projeto [Alimentizze](https://github.com/SuCastro/ProjetoAlimentizze) - 💬 Pergunte-me sobre **Design Gráfico** - 📫 Me contate pelo e-mail **suellen.cpires@outlook.com**
 
-/></a> </p><p align="left"> <a href="https://twitter.com/sc_stro" target="blank"><img src="https://img.shields.io/twitter/follow/sc_stro?logo=twitter&style=for-the-badge" alt="sc_stro"
-
-/></a> </p>- 🔭 estou trabalhando no [BlogPessoal](https://github.com/SuCastro/BlogPessoal)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 🌱 estou aprendendo **SpringBoot** - 👯 estou procurando colaborar em [Alimentizze](https://github.com/SuCastro/ProjetoAlimentizze) - 💬 Pergunte-me sobre **Design Gráfico** - 📫 Como me alcançar **suellen.cpires@outlook.com** - ⚡ Fato divertido **Supertrovertida e animada com a missão de servir.** <h3 align="left">Connect comigo:</h3> <p align="left"> <a href="https://twitter.com/sc_stro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sc_stro" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/suellen-castro-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suellen-castro-/" altura="30" largura="40" /></a> <a href="https://fb.com/https://www.facebook.com/eusuhcastro" target=="target="https://fb.com/https://www.facebook.com/eusuhcastro "em branco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eusuhcastro" altura="30" largura="40" /></a> <a href="https://instagram.com/su_castro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su_castro99" altura=
+<h3 align="left">Connect comigo:</h3> <p align="left"> <a href="https://twitter.com/sc_stro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sc_stro" height="30" width="40" /></a> <a href="https://instagram.com/su_castro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su_castro99" altura=
 "30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc6i9tiixemczf-f8nhhhjwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6i9tiixemczf-f8nhhhjwg" height="30" width="40" /></a>
 <a href="https://discord.gg/Su Castro#1826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Su Castro#1826" height="30" width="40" /></a>
